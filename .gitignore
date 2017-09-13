@@ -1,0 +1,17 @@
+_ReSharper.Papercut
+[Bb]in
+[Oo]bj
+*.user
+*.TeamCity.user
+Papercut.suo
+Papercut.*.suo
+Papercut.ncrunchsolution
+Papercut.ncrunchsolution.*	  
+/.hg
+/packages
+*.hgignore
+*.ide
+deploy/
+changelog.bat
+graphics/
+.vs/
